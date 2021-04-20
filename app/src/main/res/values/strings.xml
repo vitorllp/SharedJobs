@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Shared Jobs</string>
+    <string name="vitor_pastore">Vitor Pastore</string>
+    <string name="email">Email</string>
+    <string name="telefone">telefone</string>
+    <string name="bem_vindo_ao_cadastro_shared_jobs">Bem-vindo ao cadastro Shared Jobs!</string>
+    <string name="comercial">Comercial</string>
+    <string name="residencial">Residencial</string>
+    <string-array name="formacao" >
+        <item>Fundamental</item>
+        <item>Médio</item>
+        <item>Graduação</item>
+        <item>Especialização</item>
+        <item>Mestradado</item>
+        <item>Doutorado</item>
+    </string-array>
+</resources>
